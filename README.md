@@ -56,25 +56,41 @@ C:\users\YOURUSERNAME\Documents\NaDesigner\Libraries
   Download "Python plugin for nadesigner" installer. 
   Run nadesigner and install the plugin as follows. 
 
-![plugin0](https://github.com/user-attachments/assets/501da0af-44c3-47cf-9d7b-26a7c94997db)
+![plugin0](https://github.com/user-attachments/assets/e768af86-6797-44d9-afcc-ce3fd652a8d4)
+
+[Tools] -> [Plugin]
 
 ![plugin1](https://user-images.githubusercontent.com/45158796/170095413-5bbeee99-ce09-442f-abec-4685b929263f.png)
 
+[Download] -> [Add Plugins...]
+
 ![plugin2](https://user-images.githubusercontent.com/45158796/170095410-1375959f-9987-49ef-9b12-db325d8a65fb.png)
+
+Select your donwloaded plugin nbm files
 
 ![plugin3](https://user-images.githubusercontent.com/45158796/170095409-cbd736d5-8379-4a84-a965-288df2a12a9d.png)
 
+Select all -> [Install]
+
 ![plugin4](https://user-images.githubusercontent.com/45158796/170095406-a939d98a-f529-402c-b04d-bc22d4acc711.png)
 
+[Next]
+
 ![plugin5](https://user-images.githubusercontent.com/45158796/170095403-478f9f3f-fc38-4855-bb97-f89cd276c0aa.png)
+
+Select 'I accept the terms in all of the license agreements' -> [Install]
 
 ![plugin6](https://user-images.githubusercontent.com/45158796/170095397-0a373668-d0c8-4ea2-99e3-36670a1dc87d.png)
 
 ![plugin7](https://user-images.githubusercontent.com/45158796/170095391-7f1ccf32-9be6-4c2f-93a5-a4e6e05eab4d.png)
 
+[Finish]
+
 
 ### Configure the python platform
   Configure the python environment in NaDesigner.
+
+![platform0](https://github.com/user-attachments/assets/d6acdab4-5852-4285-bd11-d868896b8b13)
 
 [Tools] -> [Python Platforms]
 
@@ -84,9 +100,13 @@ C:\users\YOURUSERNAME\Documents\NaDesigner\Libraries
 
 ![platform2](https://user-images.githubusercontent.com/45158796/170095442-d8da6269-5c78-417a-a5c7-904f7c552d9e.png)
 
+Brows your python.exe
+
 ![platform3](https://user-images.githubusercontent.com/45158796/170095441-7cdecec7-6ad8-4f41-b72d-5f43ce8898c7.png)
 
 ![platform4](https://user-images.githubusercontent.com/45158796/170095448-81c5727f-3937-47cb-960f-4a9be5022375.png)
+
+Confirm your python path
 
 
 ### Requirement
@@ -98,8 +118,44 @@ C:\users\YOURUSERNAME\Documents\NaDesigner\Libraries
 
 ## Example
 
+#### Try the Model for User-Specific Requirements 
 
 
+#### Multi-Class Classification (MNIST)
+
+![nadesigner-ai1](https://user-images.githubusercontent.com/45158796/170121560-1e660212-347d-44e9-9952-4a9675021250.png)
+
+![nadesigner-ai2](https://user-images.githubusercontent.com/45158796/170121524-5152594f-9bbd-4876-a8c0-34ee94d53507.png)
+
+![nadesigner-ai3](https://user-images.githubusercontent.com/45158796/170121531-76ddf581-b03c-45eb-b0f7-5c211441ad2f.png)
+
+![nadesigner-ai4](https://user-images.githubusercontent.com/45158796/170121535-4c6a97df-b4a3-4dd1-af3f-2da1e544f23a.png)
+
+![nadesigner-ai5](https://user-images.githubusercontent.com/45158796/170121540-ac67bee3-c021-44ad-beae-375e2d0828de.png)
+
+![nadesigner-ai6](https://user-images.githubusercontent.com/45158796/170121544-2699da23-6aab-4d76-81a2-d30bbaa561fd.png)
+
+![nadesigner-ai7](https://user-images.githubusercontent.com/45158796/170121546-908a7fef-c4c1-445c-b62b-b89cb0ce9a71.png)
+
+
+
+### IoT Component 
+
+  The following execercize explains how to use NaDesigner to create the IoT Component.
+  
+![nadesigner-iot1](https://user-images.githubusercontent.com/45158796/170095474-88f942dd-4f25-4ee4-8bff-d098c590ddac.png)
+
+![nadesigner-iot2](https://user-images.githubusercontent.com/45158796/170095473-374623ff-d220-444b-bcb5-69c9cd781fa7.png)
+
+![nadesigner-iot3](https://user-images.githubusercontent.com/45158796/170095472-8eeebf0b-bd52-4f7b-8e6f-58eb3c121c53.png)
+
+![nadesigner-iot4](https://user-images.githubusercontent.com/45158796/170095468-3f78473c-c41c-4a14-be70-6f5dc3c083a7.png)
+
+![nadesigner-iot5](https://user-images.githubusercontent.com/45158796/170095467-7bdad6fe-4ad6-48a2-919a-3d151ce7e466.png)
+
+![nadesigner-iot6](https://user-images.githubusercontent.com/45158796/170095466-ed4a5203-3270-43d3-8143-6fa2ca6361ed.png)
+
+![nadesigner-iot7](https://user-images.githubusercontent.com/45158796/170095463-58b4055d-48a8-4d8f-b7fb-ee58d100f7a6.png)
 
 
 ## Authors
