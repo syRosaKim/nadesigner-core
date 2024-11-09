@@ -131,7 +131,7 @@ Confirm your python path
 
 ![nadesigner-ai4](https://user-images.githubusercontent.com/45158796/170121535-4c6a97df-b4a3-4dd1-af3f-2da1e544f23a.png)
 
-![nadesigner-ai5](https://github.com/user-attachments/assets/34e93123-63eb-4b9c-b51d-dbbd6a51f865)
+![nadesigner-ai5](https://github.com/user-attachments/assets/2e2f4b5c-d0ff-45c5-ba16-102c489cf028)
 
 ![nadesigner-ai6](https://user-images.githubusercontent.com/45158796/170121544-2699da23-6aab-4d76-81a2-d30bbaa561fd.png)
 
