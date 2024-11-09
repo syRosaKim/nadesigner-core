@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="NaDesigner">
+                <file name="ANNComponentProject.zip" url="nbresloc:/org/iesw/inha/wizards/project/templates/ANNComponentProject.zip">
+                    <!--org.iesw.inha.wizards.project.templates.ANNComponentWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr
+                        bundlevalue="org.iesw.inha.wizards.project.templates.Bundle#ANNComponent_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="org/iesw/inha/wizards/project/templates/ANNComponent.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/iesw/inha/wizards/project/templates/ANNComponentDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="org.iesw.inha.wizards.project.templates.ANNComponentWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+                <file name="IoTComponentProject.zip" url="nbresloc:/org/iesw/inha/wizards/project/templates/IoTComponentProject.zip">
+                    <!--org.iesw.inha.wizards.project.templates.IoTComponentWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr
+                        bundlevalue="org.iesw.inha.wizards.project.templates.Bundle#IoTComponent_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="org/iesw/inha/wizards/project/templates/IoTComponent.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/iesw/inha/wizards/project/templates/IoTComponentDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="org.iesw.inha.wizards.project.templates.IoTComponentWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+                <file name="SNNComponentProject.zip" url="nbresloc:/org/iesw/inha/wizards/project/templates/SNNComponentProject.zip">
+                    <!--org.iesw.inha.wizards.project.templates.SNNComponentWizardIterator-->
+                    <attr boolvalue="true" name="template"/>
+                    <attr
+                        bundlevalue="org.iesw.inha.wizards.project.templates.Bundle#SNNComponent_displayName" name="displayName"/>
+                    <attr name="iconBase" stringvalue="org/iesw/inha/wizards/project/templates/SNNComponent.png"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/iesw/inha/wizards/project/templates/SNNComponentDescription.html"/>
+                    <attr name="instantiatingIterator" newvalue="org.iesw.inha.wizards.project.templates.SNNComponentWizardIterator"/>
+                    <attr boolvalue="true" name="requireProject"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

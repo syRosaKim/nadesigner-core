@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="NaDesigner">
+            <file name="org-embedded-hnu-toolbar-ComponentInstallAction.instance">
+                <!--org.iesw.inha.toolbar.ComponentInstallAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_ComponentInstallAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.ComponentInstallAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-ComponentToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.ComponentToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_ComponentToolbarAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.ComponentToolbarAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_Comp24.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-ImExComponentToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.ImExComponentToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_ImExComponentToolbarAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.ImExComponentToolbarAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_comp_IO24.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-InstallToNodeREDAction.instance">
+                <!--org.iesw.inha.toolbar.InstallToNodeREDAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_InstallToNodeREDAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.InstallToNodeREDAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetHardwareToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.SetHardwareToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_SetHardwareToolbarAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.iesw.inha.toolbar.SetHardwareToolbarAction"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_Hw24_v2.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetIoTToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.SetIoTToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_SetIoTToolbarAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.SetIoTToolbarAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_IoT24_v2.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetNetworkToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.SetNetworkToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_SetNetworkToolbarAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.SetNetworkToolbarAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_Net24.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetNeuromorphicToolbarAction.instance">
+                <!--org.iesw.inha.toolbar.SetNeuromorphicToolbarAction-->
+                <attr
+                    bundlevalue="org.iesw.inha.toolbar.Bundle#CTL_SetNeuromorphicToolbarAction" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.netbeans.api.project.Project"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="org.iesw.inha.toolbar.SetNeuromorphicToolbarAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/iesw/inha/toolbar/icons/icon_Neuro24.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Install">
+            <file name="org-embedded-hnu-toolbar-ComponentInstallAction.shadow">
+                <!--org.iesw.inha.toolbar.ComponentInstallAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-embedded-hnu-toolbar-ComponentInstallAction.instance"/>
+                <attr intvalue="100" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-InstallToNodeREDAction.shadow">
+                <!--org.iesw.inha.toolbar.InstallToNodeREDAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-InstallToNodeREDAction.instance"/>
+                <attr intvalue="200" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="NaDesigner">
+            <file name="org-iesw-inha-toolbar-ComponentToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.ComponentToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-ComponentToolbarAction.instance"/>
+                <attr intvalue="300" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-ImExComponentToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.ImExComponentToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-ImExComponentToolbarAction.instance"/>
+                <attr intvalue="400" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetHardwareToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.SetHardwareToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-SetHardwareToolbarAction.instance"/>
+                <attr intvalue="200" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetIoTToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.SetIoTToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-SetIoTToolbarAction.instance"/>
+                <attr intvalue="150" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetNetworkToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.SetNetworkToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-SetNetworkToolbarAction.instance"/>
+                <attr intvalue="100" name="position"/>
+            </file>
+            <file name="org-iesw-inha-toolbar-SetNeuromorphicToolbarAction.shadow">
+                <!--org.iesw.inha.toolbar.SetNeuromorphicToolbarAction-->
+                <attr name="originalFile" stringvalue="Actions/NaDesigner/org-iesw-inha-toolbar-SetNeuromorphicToolbarAction.instance"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
