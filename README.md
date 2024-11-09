@@ -65,8 +65,11 @@ Java 1.8
   Configure the python environment in NaDesigner.
 
 [Tools] -> [Python Platforms]
+
 ![platform1](https://user-images.githubusercontent.com/45158796/170095445-1db8170a-c307-4342-8396-b7ae33ce7a0f.png)
+
 [New] in Python Platform Manager Wizard
+
 ![platform2](https://user-images.githubusercontent.com/45158796/170095442-d8da6269-5c78-417a-a5c7-904f7c552d9e.png)
 
 ![platform3](https://user-images.githubusercontent.com/45158796/170095441-7cdecec7-6ad8-4f41-b72d-5f43ce8898c7.png)
