@@ -56,7 +56,7 @@ C:\users\YOURUSERNAME\Documents\NaDesigner\Libraries
   Download "Python plugin for nadesigner" installer. 
   Run nadesigner and install the plugin as follows. 
 
-![plugin0](https://github.com/user-attachments/assets/c57db0e2-c28d-4c76-8e54-240560ef2f56)
+![plugin0](https://github.com/user-attachments/assets/501da0af-44c3-47cf-9d7b-26a7c94997db)
 
 ![plugin1](https://user-images.githubusercontent.com/45158796/170095413-5bbeee99-ce09-442f-abec-4685b929263f.png)
 
