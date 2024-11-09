@@ -47,8 +47,7 @@ multivolumefile==0.2.3
 nengo==3.1.0
 nengo-dl==3.4.1
 nengo-extras==0.4.0
-# Editable install with no version control (nengo-fpga==0.2.3.dev0)
--e d:\all\neuromorphic\nengo_voice_version1.3\nengo-fpga_v2020
+nengo-fpga==0.2.3.dev0
 nengo-loihi==1.0.0
 networkx==2.6.2
 np-utils==0.5.12.1
