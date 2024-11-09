@@ -19,15 +19,16 @@ Java 1.8
 ### Run the Installer
  Run the downloaded installer.
 
-![install1](https://github.com/user-attachments/assets/3b2d32d7-9c77-4b0b-a71b-08ff15139275)
+![install1](https://github.com/user-attachments/assets/9ff75c0d-aa29-445f-9ff4-8fe279f9da87)
 
-![install2](https://github.com/user-attachments/assets/d9b4d491-d60e-4bfa-9300-bbdcc7cd95b8)
+![install2](https://github.com/user-attachments/assets/62318344-e497-41af-800e-8d8612986224)
 
-![install3](https://github.com/user-attachments/assets/f394e7c9-cc64-47ef-aa2e-869af1646a55)
+![install3](https://github.com/user-attachments/assets/0a80dfbc-8d7a-423e-af45-476dd7e826ae)
 
-![install4](https://github.com/user-attachments/assets/3d90ea4d-43cd-46c8-bfc2-1b18e2344ed7)
+![install4](https://github.com/user-attachments/assets/13c9c3c2-e169-43c6-885e-a2f96637dd17)
 
-![install5](https://github.com/user-attachments/assets/ae9e2ef9-8ae8-41fb-b621-4ef3445b3c31)
+![install5](https://github.com/user-attachments/assets/29abde1a-acf3-48f2-b990-933debdeb27c)
+
 
 
 ## Configuration
