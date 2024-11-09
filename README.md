@@ -9,10 +9,11 @@ Java 1.8
 
 ### Download 
  
- Download the following files [here]
+ Download the following files [here](https://github.com/syRosaKim/nadesigner-core/blob/main/doc/Installation.md)
 
- 1. "NaDesigner AI" installer  
+ 1. "NaDesigner-windows" installer  
  2. python plugin
+ 3. User-driven performance model
 
  
 ### Run the Installer
@@ -42,9 +43,20 @@ Java 1.8
  jdkhome="your/path/to/jdk"
  ```
 
+### Move the User-driven performance model
+
+```sh
+C:\users\YOURUSERNAME\Documents\NaDesigner\Libraries
+```
+
+![image](https://github.com/user-attachments/assets/b38e13c0-b5d4-4c17-915f-79d25c3c234b)
+
+
 ### Install the plugin
   Download "Python plugin for nadesigner" installer. 
   Run nadesigner and install the plugin as follows. 
+
+![plugin0](https://github.com/user-attachments/assets/c57db0e2-c28d-4c76-8e54-240560ef2f56)
 
 ![plugin1](https://user-images.githubusercontent.com/45158796/170095413-5bbeee99-ce09-442f-abec-4685b929263f.png)
 
