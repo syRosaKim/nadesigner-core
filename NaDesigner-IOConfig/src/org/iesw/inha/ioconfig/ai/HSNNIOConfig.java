@@ -20,6 +20,24 @@ public class HSNNIOConfig extends HAIIOConfig{
     private String Layers;
     private String Neurons;
     private String DataSize;
+    
+    private int userRequirement;
+
+    public String getModel_prediction() {
+        return model_prediction;
+    }
+
+    public void setModel_prediction(String model_prediction) {
+        this.model_prediction = model_prediction;
+    }
+
+    public int getUserRequirement() {
+        return userRequirement;
+    }
+
+    public void setUserRequirement(int userRequirement) {
+        this.userRequirement = userRequirement;
+    }
 
     public HSNNIOConfig() {  
     }

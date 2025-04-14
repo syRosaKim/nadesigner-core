@@ -530,6 +530,8 @@ public class NeuromorphicHWDialog extends javax.swing.JDialog {
                 .addContainerGap())
         );
 
+        jPanel1.getAccessibleContext().setAccessibleName(org.openide.util.NbBundle.getMessage(NeuromorphicHWDialog.class, "NeuromorphicHWDialog.jPanel1.AccessibleContext.accessibleName")); // NOI18N
+
         getAccessibleContext().setAccessibleName(org.openide.util.NbBundle.getMessage(NeuromorphicHWDialog.class, "NeuromorphicHWDialog.AccessibleContext.accessibleName")); // NOI18N
 
         pack();
@@ -655,6 +657,7 @@ public class NeuromorphicHWDialog extends javax.swing.JDialog {
     
     private void generateSNNHardwareSource(){ 
         hSNNHWGen.initConfig(hSIOConf);
+        hSIOConf.setUserRequirement(1);
         hSNNHWGen.hSTATE = H_SNN;
         hSNNHWGen.createFile(hDirectory);
         hSNNHWGen.writeNeuroHWGen();
