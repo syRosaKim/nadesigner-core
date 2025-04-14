@@ -119,14 +119,11 @@ Confirm your python path
 
 ## Example
 
-#### Try the Model for User-Specific Requirements 
-
-
 #### Multi-Class Classification (MNIST)
 
 ![nadesigner-ai1](https://user-images.githubusercontent.com/45158796/170121560-1e660212-347d-44e9-9952-4a9675021250.png)
 
-![nadesigner-ai2](https://user-images.githubusercontent.com/45158796/170121524-5152594f-9bbd-4876-a8c0-34ee94d53507.png)
+![Image](https://github.com/user-attachments/assets/6b22f348-0adf-441f-9031-fa1cbda806ac)
 
 ![nadesigner-ai3](https://user-images.githubusercontent.com/45158796/170121531-76ddf581-b03c-45eb-b0f7-5c211441ad2f.png)
 
@@ -140,13 +137,26 @@ Confirm your python path
 
 
 
+
+#### Try the Model for User-Specific Requirements 
+
+![nadesigner-user1](https://github.com/user-attachments/assets/b1c794a2-f57f-41d3-b99b-57aec63535ec)
+
+![nadesigner-user2](https://github.com/user-attachments/assets/e89e1846-8a3b-4855-a80c-05eeffbdc837)
+
+![nadesigner-user3](https://github.com/user-attachments/assets/e2bfc525-0b4c-41fa-8e19-05b97cc77505)
+
+
+
+
+
 ### IoT Component 
 
   The following execercize explains how to use NaDesigner to create the IoT Component.
   
 ![nadesigner-iot1](https://user-images.githubusercontent.com/45158796/170095474-88f942dd-4f25-4ee4-8bff-d098c590ddac.png)
 
-![nadesigner-iot2](https://user-images.githubusercontent.com/45158796/170095473-374623ff-d220-444b-bcb5-69c9cd781fa7.png)
+![Image](https://github.com/user-attachments/assets/f054a2ba-ae4e-42d5-9881-672f0bfd8216)
 
 ![nadesigner-iot3](https://user-images.githubusercontent.com/45158796/170095472-8eeebf0b-bd52-4f7b-8e6f-58eb3c121c53.png)
 
