@@ -173,9 +173,10 @@ Confirm your python path
 
   Contributors names and contact info
   
-  - Seoyeon Kim
-  - Jaehyeok Jeong
-  - Jaehee Kim
-  - Jinman Jung
-  - Bongjae Kim
-  - Jinsung Cho
+  - Seoyeon Kim, Institute of Human-Centered Computing at Inha University
+  - Jiwoo Shin, Department of Electrical and Computer Engineering at Inha University
+  - Jaehyeok Jeong, Konan Technology
+  - Jaehee Kim, Korea Bioinformation Center
+  - Jinman Jung, Department of Computer Engineering at Inha University
+  - Bongjae Kim, Department of Computer Engineering at Chungbuk National University 
+  - Jinsung Cho, Korea Electronics Technology Institute
