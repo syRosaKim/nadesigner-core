@@ -75,3 +75,4 @@ public class HComponentConfig {
         this.author = author;
     }
 }
+
