@@ -380,3 +380,4 @@ public class InputNumberLayerDialog extends javax.swing.JDialog {
     private javax.swing.JButton nextNumberLayerButton;
     // End of variables declaration//GEN-END:variables
 }
+
