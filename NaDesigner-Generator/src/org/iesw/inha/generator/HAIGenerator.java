@@ -12,3 +12,4 @@ package org.iesw.inha.generator;
 public class HAIGenerator extends HGenerator{
     
 }
+
