@@ -47,3 +47,4 @@ public final class ComponentInstallAction implements ActionListener {
         }
     }
 }
+
