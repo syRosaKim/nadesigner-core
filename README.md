@@ -1,6 +1,15 @@
 # NA-Designer-Core
 Neuromorphic Architecture based Component Designer (Core Sourcecode)
 
+## Related Publication
+
+**Automatic generation of spiking neural networks on neuromorphic computing hardware for IoT edge computing**  
+Seoyeon Kim, Jinsung Cho, Jiwoo Shin, Bongjae Kim, Jinman Jung
+
+*Future Generation Computer Systems, Volume 174, January 2026*
+
+📄 Paper: https://doi.org/10.1016/j.future.2025.107953
+
 ## JDK
 
 Java 1.8
